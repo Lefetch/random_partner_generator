@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <menuitem  id="menu_random_partner"
+        name="Generate Random Partners"
+        action="action_random_partner"
+        parent="contacts.res_partner_menu_contacts"
+        sequence="2" />
+</odoo>
